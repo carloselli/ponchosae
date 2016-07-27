@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MPU-6050
+D GIROSCOPO-ACELEROMETRO
+$ENDCMP
+#
+#End Doc Library
